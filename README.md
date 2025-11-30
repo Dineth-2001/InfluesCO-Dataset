@@ -2,7 +2,7 @@
 
 Recommending the Right Sri Lankan YouTube Influencer for Your Marketing Needs
 
-This repository contains the dataset used in the InfluesCO project — a data-driven system designed to identify the most relevant Sri Lankan YouTube influencers for brand marketing campaigns.
+This repository contains the dataset used in the InfluesCO project; a data-driven system designed to identify the most relevant Sri Lankan YouTube influencers for brand marketing campaigns.
 
 The dataset includes cleaned and structured channel-level, video-level, and comment-level information collected using the YouTube Data API v3.
 
@@ -38,9 +38,9 @@ Each JSON record contains the following structure:
 
 The CSV files provide flattened and analysis-ready versions of:
 
-- **channels.csv** — channel-level aggregated features
-- **videos.csv** — video-level fields for 10 recent videos
-- **comments.csv** — comment-level features for 100 recent comments
+- **channels.csv**: channel-level aggregated features
+- **videos.csv**: video-level fields for 10 recent videos
+- **comments.csv**: comment-level features for 100 recent comments
 
 ## 🧱 Data Components
 #### 1. Channel-Level Data
