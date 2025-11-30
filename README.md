@@ -131,4 +131,4 @@ Only publicly available information is included.
 
 If you use this dataset in your work, please cite the InfluesCO project:
 
-InfluesCO — Recommending the Right Sri Lankan YouTube Influencer for Your Marketing Needs (2025)
+InfluesCO - Recommending the Right Sri Lankan YouTube Influencer for Your Marketing Needs (2025)
